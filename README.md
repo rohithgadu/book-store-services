@@ -14,7 +14,16 @@
 
 
 ## Schema
-![image](https://user-images.githubusercontent.com/84178107/207285943-103afd62-c2f5-4ead-9c7a-71f95b103d78.png)
+|    books     |  |  
+| -------- | ------- |
+|   `id`      | `token` |
+|   `created_at`      | `DATE TIME` |
+|   `updated_at`      | `DATE TIME` |
+|   `deleted_at`      | `DATE TIME` |
+|   `name`      | `VARCHAR(255)` |
+|   `author`      | `VARCHAR(255)` |
+|   `publication`      | `VARCHAR(255)` |
+
 
 
 
